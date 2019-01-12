@@ -1,2 +1,2 @@
 # Recruit-restaurant-visitor-Forecasting
-The aim of this challenge is to predict the future numbers of restaurant visitors.
+The aim of this challenge is to predict the future numbers of restaurant visitors.The data was collected from Japanese restaurants.The data comes in the shape of 8 relational files which are derived from two separate Japanese websites that collect user information: “Hot Pepper Gourmet (hpg): similar to Yelp” (search and reserve) and “AirREGI / Restaurant Board (air): similar to Square”
